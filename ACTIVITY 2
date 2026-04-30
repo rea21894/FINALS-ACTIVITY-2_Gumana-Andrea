@@ -11,9 +11,9 @@
 <body>
 
     <?php
-    echo "Good Day!<br>";
-    echo "Let's Learn PHP.<br>";
-    echo "GoodLuck in Coding!";
+    echo "Hello everyone !<br>";
+    echo "Let us Learn PHP.<br>";
+    echo "Goodluck!";
     ?>
 
 </body>
